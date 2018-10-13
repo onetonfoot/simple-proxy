@@ -1,0 +1,2 @@
+digitalocean_token = "PUT YOUR TOKEN HERE"
+ssh_fingerprint = "PUT YOUR SSH FINGER PRINT HERE"
