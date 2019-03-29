@@ -5,7 +5,7 @@
 sudo apt-get update && sudo apt-get -y upgrade
 
 
-sudo apt-get install -y squid3 apache2-utils
+sudo apt-get install -y squid apache2-utils
 rm /etc/squid/squid.conf
 sudo tee /etc/squid/squid.conf > /dev/null <<EOF
 
